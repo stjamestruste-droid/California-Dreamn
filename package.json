@@ -1,0 +1,19 @@
+{
+  "name": "california-dreamn-studio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "sanity dev",
+    "start": "sanity start",
+    "build": "sanity build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "sanity": "latest",
+    "styled-components": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
